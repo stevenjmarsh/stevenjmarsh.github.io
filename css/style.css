@@ -12,10 +12,14 @@
       font-size: 50px;
       color: white;
     }
-    img {
+    .profile-pic {
       margin: 10px 0px 0px 0px;
       border: 3px solid white;
       border-radius: 100%
+    }
+    .construction-banner {
+      height: 40%;
+      width: 100%;
     }
     ul {
       padding: 10px;
